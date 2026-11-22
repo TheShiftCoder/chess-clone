@@ -19,7 +19,7 @@ An end-to-end, deep-learning chess bot trained on player-specific human games to
 ## 📁 Repository Structure
 
 ```text
-chess-bot/
+chess-clone/
 ├── config.py                       # Global project configuration & hyperparameter settings
 ├── train.py                        # Model training and fine-tuning pipeline
 ├── pyproject.toml                  # Project metadata and package dependencies
@@ -53,8 +53,8 @@ Python **3.11** or higher is required.
 
 ```bash
 # Clone repository
-git clone https://github.com/your-username/chess-bot.git
-cd chess-bot
+git clone https://github.com/your-username/chess-clone.git
+cd chess-clone
 
 # Create and activate virtual environment
 python -m venv venv
